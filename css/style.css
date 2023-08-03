@@ -1,0 +1,96 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+
+/* Header */
+
+.logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.logo span {
+  color: #4d5ae5;
+}
+.menu-list li a {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.menu-item:hover {
+  color: #404bbf;
+}
+.menu-item:focus {
+  color: #404bbf;
+}
+.adress-list li a {
+  color: #434455;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.adres-item:hover {
+  color: #404bbf;
+}
+.adres-item:focus {
+  color: #404bbf;
+}
+
+/* Main */
+
+.section-main {
+  background: #2e2f42;
+}
+.main-title {
+  color: #ffffff;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
+}
+.priorities-list {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+.paragraph {
+  color: #434455;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.section-team {
+  background-color: #f4f4fd;
+}
+
+.main-title-list {
+  font-family: inherit;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+.section-title-list {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
