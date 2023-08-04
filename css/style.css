@@ -50,10 +50,21 @@ body {
 }
 .main-title {
   color: #ffffff;
+  font-family: inherit;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
 }
 .button {
   background-color: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
 }
 .button:hover {
   background-color: #404bbf;
@@ -93,4 +104,35 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+}
+
+/* Footer */
+footer {
+  background-color: #2e2f42;
+}
+
+.logo-footer {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.logo-footer span {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.paragraph-footer {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
