@@ -78,6 +78,7 @@ body {
   background-color: #404bbf;
 }
 .priorities-list {
+  color: #2e2f42;
   font-family: inherit;
   font-size: 20px;
   font-weight: 500;
@@ -101,6 +102,7 @@ body {
 }
 
 .main-title-list {
+  color: #2e2f42;
   font-family: inherit;
   font-size: 36px;
   font-weight: 700;
@@ -110,6 +112,7 @@ body {
   text-align: center;
 }
 .section-title-list {
+  color: #2e2f42;
   font-family: inherit;
   font-size: 20px;
   font-weight: 500;
@@ -131,7 +134,7 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.logo-footer span {
+.logo-footer-span {
   color: #f4f4fd;
   font-family: Raleway, sans-serif;
   font-size: 18px;
