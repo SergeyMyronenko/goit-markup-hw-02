@@ -3,6 +3,13 @@ body {
   color: #434455;
   background: #ffffff;
 }
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
 
 /* Header */
 
